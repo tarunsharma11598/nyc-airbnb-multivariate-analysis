@@ -72,13 +72,20 @@ Outliers were analyzed geographically and by feature patterns to understand:
 ## Key Visualizations
 The repository includes multiple visual outputs in the `assets/` folder:
 
-- NYC Airbnb price distribution map (Folium)
-- Correlation heatmap of numeric features
-- PCA scree plot & cumulative variance plot
-- PCA scatter plots (PC1–PC2)
-- Outlier detection visualization
-- Random Forest feature importance
-- Decision boundaries in PCA space
+### NYC Airbnb Price Distribution
+![NYC Map](assets/Folium_Map.jpg)
+
+### Feature Correlation
+![Correlation Heatmap](assets/Corelation%20Heatmap%20of%20Numeric%20Features.png)
+
+### PCA Explained Variance
+![Scree Plot](assets/Scree%20plot.png)
+![Cumulative Variance](assets/Cumulative%20variance%20plot.png)
+
+### Model Insights
+![Outlier Detection](assets/outlier%20detection.png)
+![RF Feature Importance](assets/RF%20Features%20Importance.png)
+
 
 
 
@@ -107,3 +114,4 @@ The repository includes multiple visual outputs in the `assets/` folder:
 - PCA revealed meaningful latent structure in Airbnb pricing features
 - Different outlier detection methods identify distinct types of anomalies
 - Random Forest models achieved strong performance in price category classification
+
