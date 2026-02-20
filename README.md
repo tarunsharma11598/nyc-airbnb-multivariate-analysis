@@ -88,3 +88,22 @@ The repository includes multiple visual outputs in the `assets/` folder:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Tech Stack & Skills
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Folium
+- **Concepts:**
+  - Exploratory Data Analysis (EDA)
+  - Principal Component Analysis (PCA)
+  - Outlier Detection
+  - Random Forest Classification
+  - Feature Importance
+  - Model Evaluation
+  - Geospatial Visualization
+
+---
+
+## Key Takeaways
+- PCA revealed meaningful latent structure in Airbnb pricing features
+- Different outlier detection methods identify distinct types of anomalies
+- Random Forest models achieved strong performance in price category classification
